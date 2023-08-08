@@ -1,4 +1,14 @@
 # Word-Count-Bash-Script
+
+#################################
+######      IMPORTANT      ######
+#################################
+# Remeber to change directories #
+# to your system settings       #
+# before running                #
+#################################
+
+
 A simple shell script to extract word counts for files in a single directory. Some conditions apply will be available in the readme file.
 
 a simple shell script to extract word counts for files in a single directory under following conditions.
